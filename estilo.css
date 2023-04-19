@@ -86,7 +86,7 @@ li a {
   font-family: 'Courier New', Courier, monospace;
 }
 li a:hover {
-  background: rgb(255, 0, 0);
+  background: #ffffff;
   color: black;
 }
 
@@ -107,4 +107,192 @@ li a:hover {
    position: absolute;
    top: 45px;
 }
+.Vermelha {
+  position: absolute;
+  background:#63100D ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+
+} 
+li a:hover {
+  background: #ffffff;
+  color: black;
+}
+
+.Verde {
+  position: absolute;
+  background:#0f653d ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Azul{
+  position: absolute;
+  background:#204E80;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Roxa {
+  position: absolute;
+  background:#4A0080;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Amarela {
+  position: absolute;
+  background:#E0D100 ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Dourada {
+  position: absolute;
+  background:#FFA703;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Marrom {
+  position: absolute;
+  background:#442A20 ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Preta {
+  position: absolute;
+  background:black ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Cinza {
+  position: absolute;
+  background:#3E4040 ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+.Branca {
+  position: absolute;
+  background:black ;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: start;
+  text-transform: uppercase;
+}
+
+Vermelha
+      #9B0600
+      #E6726E
+      #E00700
+      #63100D
+      #AD0600
+
+      Verde
+      #009C53
+      #6EE6AE
+      #00E078
+      #0D633B
+      #00AD5B
+      
+      Azul
+      #003E80
+      #4DA3FF
+      #007BFF
+      #204E80
+      #0063CC
+
+      Roxa
+      #4A0080
+      #B54DFF
+      #9500FF
+      #4A0080
+      #7700CC
+
+      Amarela
+      #948A00
+      #E6DE6E
+      #E0D100
+      #B19827
+      #ADA200
+
+      Dourada
+      #855701
+      #FFC14F
+      #FFA703
+      #C4953D
+      #CC8502
+
+      Marrom
+      #854C32
+      #A36F53
+      #442A20
+      #66443E
+      #592F24
+
+      Preta
+      #000000
+
+      Cinza
+      #6F7373
+      #3E4040
+      #252626
+      #5E686B
+      #B5BFBF
+
+      Branca
+      #FFFFFF
 
